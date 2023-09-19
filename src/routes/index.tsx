@@ -4,16 +4,18 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Hello World</Title>
-      <h1>Hello world!</h1>
-      <Counter />
-      <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
-        </a>{" "}
-        to learn how to build SolidStart apps.
-      </p>
+            
+     <html>
+<title> WELCOME TO TIL-NETLIFY</title>
+<head>
+<p> HELLO! My name is <b>Jilesh</b> </p>
+</head>
+<p1> TIL- Markdown language is much better for formatting and making code prettier</p1>
+
+<p2> stay tuned for new updates..!</p2>
+
+</html>
+  
     </main>
   );
 }
